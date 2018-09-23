@@ -14,7 +14,7 @@ postman
 
 
 How to Run the project:
-1-Go to root path project 
+1-Go to root path project: mvn update
 2-build project: mvn clean install
 3- Go to target folder and run project : java -jar developpers-manager-0.0.1-SNAPSHOT.jar
 
